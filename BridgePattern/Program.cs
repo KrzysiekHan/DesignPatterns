@@ -2,6 +2,8 @@
 {
     internal static class Program
     {
+        //
+
         private static void Main()
         {
             IWeapon sword = new Sword(new FlyingEnchantment());
